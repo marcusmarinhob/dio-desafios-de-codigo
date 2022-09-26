@@ -1,5 +1,5 @@
-# Repositório de Desafios de Cdigo
-Repositório criado para armazenar os materiais do Bootcamp Geração Tech Unimed-BH - Ciência de Dados.
+# Repositório de Desafios de Código
+Repositório criado para armazenar os desafios de código.
 
 <h1 align="center">
     <img alt="Python Codes" title="#PythonCodes" src="./challenge.png" width="600px" />
