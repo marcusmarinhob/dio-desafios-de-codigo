@@ -2,7 +2,7 @@
 Repositório criado para armazenar os desafios de código.
 
 <h1 align="center">
-    <img alt="Python Codes" title="#PythonCodes" src="./challenge.png" width="600px" />
+    <img alt="Python Codes" title="#PythonCodes" src="./challenge.png" width="500px" />
 </h1>
 
 <h4 align="center"> 
